@@ -12,3 +12,5 @@ Added pin sentry and SF folder to delete list.
 Changed URL's.
 [B]Version 1.6[/B] 
 Code change.
+[B]Version 1.7[/B] 
+Code change.
