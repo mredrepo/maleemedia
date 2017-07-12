@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.jarvisupdatermalee" name="[COLOR lime]Jarvis Updater for EmbER[/COLOR]" version="1.0" provider-name="MALEE MEDIA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="updater.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Jarvis Updater</summary>
+    <description lang="en">Jarvis Updater provides easy access to MALEE MEDIA Builds at the click of a button.
+Thanks to all Devs who have contributed to this project!</description>
+    <platform>all</platform>
+  </extension>
+</addon>

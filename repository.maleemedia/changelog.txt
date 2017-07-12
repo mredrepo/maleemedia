@@ -1,0 +1,8 @@
+[B]Version 1.0[/B]
+- Initial version
+[B]Version 1.1[/B]
+- Changed icon.
+[B]Version 1.2[/B]
+- Changed text.
+[B]Version 1.3[/B]
+- Use GitHub.
