@@ -6,3 +6,5 @@
 - Changed text.
 [B]Version 1.3[/B]
 - Use GitHub.
+[B]Version 1.4[/B]
+- Fix Github URL.

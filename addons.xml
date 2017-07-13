@@ -69,11 +69,11 @@ Thanks to all Devs who have contributed to this project!</description>
   </extension>
 </addon>
 
-<addon id="repository.maleemedia" name="[COLOR lime]MaleeMedia Repo[/COLOR]" version="1.3" provider-name="MaleeMedia">
+<addon id="repository.maleemedia" name="[COLOR lime]MaleeMedia Repo[/COLOR]" version="1.4" provider-name="MaleeMedia">
 	<extension point="xbmc.addon.repository" name="MaleeMedia">
 		<info compressed="false">https://github.com/mredrepo/maleemedia/raw/master/addons.xml</info>
 		<checksum>https://github.com/mredrepo/maleemedia/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/maleemedia/repokodi/raw/master/</datadir>
+		<datadir zip="true">https://github.com/mredrepo/maleemedia/raw/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>MaleeMedia Repo</summary>
