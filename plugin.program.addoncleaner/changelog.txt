@@ -3,4 +3,6 @@ Initial Version.
 [B]Version 1.1[/B] 
 Added Jarvis fresh and Krypton fresh.
 [B]Version 1.2[/B] 
-Added repo metalkettle.
+Added some addons for deletion.
+[B]Version 1.3[/B] 
+Added metalkettle repo.
