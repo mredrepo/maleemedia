@@ -6,3 +6,5 @@ Added Jarvis fresh and Krypton fresh.
 Added some addons for deletion.
 [B]Version 1.3[/B] 
 Added metalkettle repo.
+[B]Version 1.4[/B] 
+Added various repos.
