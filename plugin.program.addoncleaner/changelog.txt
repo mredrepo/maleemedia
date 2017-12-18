@@ -8,3 +8,6 @@ Added some addons for deletion.
 Added metalkettle repo.
 [B]Version 1.4[/B] 
 Added various repos.
+[B]Version 1.5[/B]
+Added start command addon and repo updates, and added
+repos and two addons (Bennu and Strictly HD)for deletion  
