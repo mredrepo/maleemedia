@@ -2,3 +2,9 @@
 Initial version
 [B]Version 1.1[/B] 
 Added reboot command.
+[B]Version 1.2[/B] 
+<<<<<<< HEAD
+Updated DB Url.
+=======
+Updated URL.
+>>>>>>> b535142af3de04d20a96fc84731916fbcdb0400b

@@ -2,3 +2,5 @@
 Initial version
 [B]Version 1.1[/B] 
 Code change.
+[B]Version 1.2[/B] 
+DB Text file path change.
