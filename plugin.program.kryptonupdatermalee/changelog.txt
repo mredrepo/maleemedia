@@ -2,3 +2,5 @@
 Initial version
 [B]Version 1.1[/B] 
 Added reboot command.
+[B]Version 1.2[/B] 
+Updated URL.
