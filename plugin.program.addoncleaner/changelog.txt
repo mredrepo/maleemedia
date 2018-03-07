@@ -14,3 +14,5 @@ repos and two addons (Bennu and Strictly HD)for deletion
 [B]Version 1.6[/B]
 Added many repos and addons including Superepo, Duckpool
 with icechannel scripts and SALTS
+[B]Version 1.7[/B]
+Made some corrections to Startup.py to correct error
