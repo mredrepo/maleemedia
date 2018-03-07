@@ -10,4 +10,7 @@ Added metalkettle repo.
 Added various repos.
 [B]Version 1.5[/B]
 Added start command addon and repo updates, and added
-repos and two addons (Bennu and Strictly HD)for deletion  
+repos and two addons (Bennu and Strictly HD)for deletion
+[B]Version 1.6[/B]
+Added many repos and addons including Superepo, Duckpool
+with icechannel scripts and SALTS
