@@ -16,3 +16,5 @@ Added many repos and addons including Superepo, Duckpool
 with icechannel scripts and SALTS
 [B]Version 1.7[/B]
 Made some corrections to Startup.py to correct error
+[B]Version 1.8[/B]
+Added several repos and addons e.g. Covenant and BobUnleashed.
