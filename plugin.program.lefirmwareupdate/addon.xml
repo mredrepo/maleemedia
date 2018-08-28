@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.lefirmwareupdate" name="[COLOR lime]LibreELEC Firmware Updater[/COLOR]" version="1.4" provider-name="Malee Media">
+<addon id="plugin.program.lefirmwareupdate" name="[COLOR lime]LibreELEC Firmware Updater[/COLOR]" version="1.5" provider-name="Malee Media">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
