@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.lefirmwareupdate" name="[COLOR lime]LibreELEC Firmware Updater[/COLOR]" version="1.4" provider-name="Malee Media">
+<addon id="plugin.program.lefirmwareupdate" name="[COLOR lime]LibreELEC Firmware Updater[/COLOR]" version="1.5.1" provider-name="Malee Media">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
-	<import addon="plugin.program.kryptonupdaterfresh" version="1.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="updater.py">
     <provides>executable</provides>
@@ -18,6 +17,7 @@
 [B]Version 1.2[/B] Code change for fresh start.
 [B]Version 1.3[/B] Added Icon to Notification.
 [B]Version 1.4[/B] Import Fresh updater.
+[B]Version 1.5.1[/B] Remove Import Fresh updater and add support for TX7 box.
     </news>
   </extension>
 </addon>
