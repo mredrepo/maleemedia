@@ -18,3 +18,5 @@ with icechannel scripts and SALTS
 Made some corrections to Startup.py to correct error
 [B]Version 1.8[/B]
 Added several repos and addons e.g. Covenant and BobUnleashed.
+[B]Version 1.9[/B]
+Added several repos and addons e.g. Picasso and The Jukebox etc.
