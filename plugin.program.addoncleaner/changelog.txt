@@ -20,5 +20,5 @@ Made some corrections to Startup.py to correct error
 Added several repos and addons e.g. Covenant and BobUnleashed.
 [B]Version 1.9[/B]
 Added several repos and addons e.g. Picasso and The Jukebox etc.
-[B]Version 1.9.1[/B]
+[B]Version 1.91[/B]
 Fixed error with 3 repo removals, Goliath, ZT and catchup4kodi
