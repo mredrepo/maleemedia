@@ -26,3 +26,5 @@ Fixed error with 3 repo removals, Goliath, ZT and catchup4kodi
 Removed Catchup4KODI repo (Little Wiz) form cleaner list and removals for Elysium addon and repo and Blamo repo
 [B]Version 1.93[/B]
 Big cleanup of many old scripts and scrapers plus Underdog, Motor Replays, Super Replays, Football Today and Jango.
+[B]Version 1.94[/B]
+Routine cleanup including BBC and ITV iPlayers and TV Catchup addons plus Filmkodi.com repo.

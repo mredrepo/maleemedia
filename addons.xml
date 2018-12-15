@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.program.addoncleaner" name="[COLOR lime]Addon Cleaner[/COLOR]" version="1.93" provider-name="MALEE MEDIA">
+<addon id="plugin.program.addoncleaner" name="[COLOR lime]Addon Cleaner[/COLOR]" version="1.94" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
