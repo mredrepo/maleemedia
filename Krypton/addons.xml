@@ -1,0 +1,145 @@
+<addons>
+<addon id="plugin.program.addoncleaner" name="[COLOR lime]Addon Cleaner[/COLOR]" version="1.94" provider-name="MALEE MEDIA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Automatically cleans up old addons, userdata, packages and Cache.</summary>
+    <description lang="en"></description>
+	<disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.program.kryptonupdatermalee" name="[COLOR lime]LibreELEC Updater for Krypton[/COLOR]" version="1.2" provider-name="MALEE MEDIA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+    <import addon="skin.confluence" version="3.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="updater.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">LibreELEC Updater</summary>
+    <description lang="en">LibreELEC Updater provides easy access to MALEE MEDIA Builds at the click of a button.
+Thanks to all Devs who have contributed to this project!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.program.adultaddons" name="[COLOR lime]Install Adult Extras[/COLOR]" version="1.7" provider-name="MR ED REPO">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Adult Extras</summary>
+    <description lang="en">Installs the adult build only if you want it.
+Thanks to all Devs who have contributed to this project!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.program.kryptonupdaterfresh" name="Fresh Updater for Krypton" version="1.1" provider-name="MALEE MEDIA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+    <import addon="skin.confluence" version="3.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="updater.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">LibreELEC Updater</summary>
+    <description lang="en">LibreELEC Updater provides easy access to MALEE MEDIA Builds at the click of a button.
+Thanks to all Devs who have contributed to this project!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.maleemedia" name="[COLOR lime]MaleeMedia Repo[/COLOR]" version="1.4" provider-name="MaleeMedia">
+	<extension point="xbmc.addon.repository" name="MaleeMedia">
+		<info compressed="false">https://github.com/mredrepo/maleemedia/raw/master/addons.xml</info>
+		<checksum>https://github.com/mredrepo/maleemedia/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/mredrepo/maleemedia/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>MaleeMedia Repo</summary>
+		<description>Home of MaleeMedia addons.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.program.lefirmwareupdate" name="[COLOR lime]LibreELEC Firmware Updater[/COLOR]" version="1.5.1" provider-name="Malee Media">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="updater.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">LibreELEC Firmware Updater</summary>
+    <description lang="en">LibreELEC Firmware Updater will update the community version number up or down. Be carefull what you are doing, follow the instructions.</description>
+    <platform>all</platform>
+	<news>
+[B]Version 1.2[/B] Code change for fresh start.
+[B]Version 1.3[/B] Added Icon to Notification.
+[B]Version 1.4[/B] Import Fresh updater.
+[B]Version 1.5.1[/B] Remove Import Fresh updater and add support for TX7 box.
+    </news>
+  </extension>
+</addon>
+
+
+<addon id="plugin.program.jarvisupdatermalee" name="[COLOR lime]Jarvis Updater for EmbER[/COLOR]" version="1.1" provider-name="MALEE MEDIA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="updater.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Jarvis Updater</summary>
+    <description lang="en">Jarvis Updater provides easy access to MALEE MEDIA Builds at the click of a button.
+Thanks to all Devs who have contributed to this project!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.program.jarvisupdaterfresh" name="Fresh Updater for Jarvis" version="1.2" provider-name="MALEE MEDIA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+    <import addon="plugin.program.jarvisupdatermalee" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="updater.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Jarvis Updater</summary>
+    <description lang="en">Jarvis Updater provides easy access to MALEE MEDIA Builds at the click of a button.
+Thanks to all Devs who have contributed to this project!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
