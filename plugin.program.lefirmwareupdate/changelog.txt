@@ -1,6 +1,0 @@
-[B]Version 1.0[/B] Initial version forked.
-[B]Version 1.1[/B] Changed Icon.
-[B]Version 1.2[/B] Code change for fresh start.
-[B]Version 1.3[/B] Added Icon to Notification.
-[B]Version 1.4[/B] Imported krypton updater Fresh.
-[B]Version 1.5.1[/B] Removed Fresh Start and added TX7 box option
