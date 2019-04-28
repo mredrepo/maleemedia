@@ -1,0 +1,1 @@
+Version 2.0.0 - separate Kodi version folders
