@@ -69,7 +69,7 @@ Thanks to all Devs who have contributed to this project!</description>
   </extension>
 </addon>
 
-<addon id="plugin.program.lefirmwareupdate" name="[COLOR lime]LibreELEC Firmware Updater[/COLOR]" version="1.5.1" provider-name="Malee Media">
+<addon id="plugin.program.lefirmwareupdate" name="[COLOR lime]LibreELEC Firmware Updater[/COLOR]" version="1.6" provider-name="Malee Media">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
