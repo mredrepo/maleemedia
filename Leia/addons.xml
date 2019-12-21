@@ -49,7 +49,7 @@
   </extension>
 </addon>
 
-<addon id="script.repo.importer" name="[COLOR lime]Repo Importer[/COLOR]" version="18.0.3" provider-name="MALEE MEDIA">
+<addon id="script.repo.importer" name="[COLOR lime]Repo Importer[/COLOR]" version="18.0.4" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
   </requires>
