@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.addon.importer.linux" name="[COLOR lime]Addon Importer[/COLOR]" version="18.0.0" provider-name="MALEE MEDIA">
+<addon id="script.addon.importer.linux" name="[COLOR lime]Addon Importer[/COLOR]" version="18.0.1" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
+	<import addon="plugin.video.ds"/>
+	<import addon="plugin.video.gaia"/>
+	<import addon="plugin.video.joyride"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
         <provides></provides>
