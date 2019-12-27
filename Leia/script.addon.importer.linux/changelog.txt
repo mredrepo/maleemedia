@@ -1,4 +1,5 @@
 [COLOR lime]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON REMOTE[/COLOR]
-DECEMBER 27TH 2019 - HAPPY NEW YEAR
+DECEMBER 27TH 2019 - A HAPPY NEW YEAR
+Fixed initial version bug rolled out earlier.
 Three new add-ons installed :- Death Star, Gaia and Joy Ride 
-For details see email sent today. 
+For details see email sent today.
