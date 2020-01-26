@@ -1,6 +1,7 @@
 [COLOR lime]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON REMOTE[/COLOR]
-JANUARY 5th 2020 - UPDATE FIX
-Fixed problem with Joy Ride add-on changing its name to Torque.
-So new Torque add-on auto installed to replace Joy Ride add-on. 
-Joy Ride add-on we will shortly auto delete to tidy up your system.
+JANUARY 26th 2020 - 2 NEW ADDONS
+Soundcloud - Music Addon
+Grindhouse Learning - For all you swats and the curious.
+We have also cleaned up your system removing 6 now obsolete addons too
+You should now reboot to ensure that these changes are completed
 Best Wishes from [COLOR lime] MALEE MEDIA [/COLOR]
