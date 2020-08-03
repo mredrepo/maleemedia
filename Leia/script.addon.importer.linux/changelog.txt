@@ -1,7 +1,7 @@
 [COLOR lime]TO MAKE THIS WINDOW DISAPPEAR PRESS THE BACK KEY ON REMOTE[/COLOR]
-JANUARY 26th 2020 - 2 NEW ADDONS
-Soundcloud - Music Addon
-Grindhouse Learning - For all you swats and the curious.
-We have also cleaned up your system removing 6 now obsolete addons too
+August 3rd 2020 - 2 NEW ADDONS
+Fen - Movies and TV Series Addon (needs Real-Debrid) See Koditips.com for help.
+Torque2 - The welcome return of a new working version for motor racing fans.
+We have also cleaned up your system removing 2 now dead addons and a repo too.
 You should now reboot to ensure that these changes are completed
 Best Wishes from [COLOR lime] MALEE MEDIA [/COLOR]

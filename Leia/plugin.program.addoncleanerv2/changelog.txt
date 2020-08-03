@@ -4,3 +4,5 @@ Initial Version.
 Removing the Maverick and Supremacy repos and associated dead add-ons (not Magic Dragon)
 [B]Version 2.0.2[/B] 
 Removing Joy Ride, Cartoons On, Jukebox Hero, Metal Video , NFL COM, and ListenLive EU
+[B]Version 2.0.3[/B]
+Removing Gearheads Repo, Torque and UKTVNow

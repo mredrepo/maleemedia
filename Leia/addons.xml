@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.program.addoncleanerv2" name="[COLOR lime]Addon Cleaner for Leia[/COLOR]" version="2.0.2" provider-name="MALEE MEDIA">
+<addon id="plugin.program.addoncleanerv2" name="[COLOR lime]Addon Cleaner for Leia[/COLOR]" version="2.0.3" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
   </requires>
@@ -34,14 +34,15 @@
   </extension>
 </addon>
 
-<addon id="script.addon.importer.linux" name="[COLOR lime]Addon Importer[/COLOR]" version="18.0.4" provider-name="MALEE MEDIA">
+<addon id="script.addon.importer.linux" name="[COLOR lime]Addon Importer[/COLOR]" version="18.0.5" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="plugin.video.ds"/>
     <import addon="plugin.video.gaia"/>
-    <import addon="plugin.video.torque"/>
+    <import addon="plugin.video.torque2"/>
 	<import addon="plugin.audio.soundcloud"/>
 	<import addon="plugin.video.grindhouselearning"/>
+	<import addon="plugin.video.fen"/>	
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
         <provides></provides>
@@ -54,7 +55,7 @@
   </extension>
 </addon>
 
-<addon id="script.repo.importer" name="[COLOR lime]Repo Importer[/COLOR]" version="18.0.5" provider-name="MALEE MEDIA">
+<addon id="script.repo.importer" name="[COLOR lime]Repo Importer[/COLOR]" version="18.0.6" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
   </requires>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.addon.importer.linux" name="[COLOR lime]Addon Importer[/COLOR]" version="18.0.4" provider-name="MALEE MEDIA">
+<addon id="script.addon.importer.linux" name="[COLOR lime]Addon Importer[/COLOR]" version="18.0.5" provider-name="MALEE MEDIA">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="plugin.video.ds"/>
     <import addon="plugin.video.gaia"/>
-    <import addon="plugin.video.torque"/>
+    <import addon="plugin.video.torque2"/>
 	<import addon="plugin.audio.soundcloud"/>
 	<import addon="plugin.video.grindhouselearning"/>
+	<import addon="plugin.video.fen"/>	
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
         <provides></provides>
