@@ -4,7 +4,7 @@
         version="2.0.3"
         provider-name="MaleeMedia">
     <requires>
-        <import addon="xbmc.addon" version="17.0.0"/>
+        <import addon="xbmc.addon" version="18.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository"
         name="MaleeMedia Repo">
